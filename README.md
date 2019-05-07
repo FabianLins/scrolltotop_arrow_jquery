@@ -38,7 +38,7 @@ ______________
   JavaScript Version
 ______________
 - Scrolling speed can NOT be adjusted, it is defined as "behavior:  smooth".
-- CSS transistions are used for the "fadein" and "fadeout".
+- CSS transistions are used for the "fadein" and "fadeout" (add and remove classlist).
 - The ScrollToTop Arrow is visible onload. Ff it is above the "scroll point" it automatically disappears.
 
 # License
