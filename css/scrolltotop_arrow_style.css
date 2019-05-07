@@ -1,3 +1,10 @@
+@media only screen and (max-width: 1023px) {
+  #scrolltotop_parent {
+    bottom: 25px !important;
+    right: 25px !important;
+  }
+}
+
 #scrolltotop_parent {
   background: #006f9e;
   cursor: pointer;
@@ -6,7 +13,7 @@
   position: fixed;
   bottom: 50px;
   right: 50px;
-  z-index: 1004!important;
+  z-index: 1002 !important;
 }
 
 #scrolltotop_parent:hover {
