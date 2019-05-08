@@ -39,7 +39,7 @@ ______________
 ______________
 - Scrolling speed can NOT be adjusted, it is defined as "behavior:  smooth".
 - CSS transistions are used for the "fadein" and "fadeout" (add and remove classlist).
-- The ScrollToTop Arrow is visible onload. Ff it is above the "scroll point" it automatically disappears.
+- The ScrollToTop Arrow is visible onload. If it is above the "scroll point" it automatically disappears.
 
 # License
 You are free to use this menu in commercial projects without giving credit.
